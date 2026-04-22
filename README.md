@@ -9,15 +9,28 @@
 
 ## ABOUT ME
 
-<p align="center" width="80%">
-I am a Data Analyst passionate about converting raw data into meaningful insights that support strategic decision-making. I focus on analytical thinking, structured problem-solving, and delivering clear, impactful visualizations.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f4037,100:99f2c8&height=2"/>
 </p>
 
 <p align="center">
-  ✔ Strong foundation in Data Analysis and Visualization <br>
-  ✔ Hands-on experience with real-world datasets <br>
-  ✔ Focused on Insight Generation and Storytelling <br>
-  ✔ Continuously improving analytical and technical skills
+  <b>Data Analyst focused on transforming raw data into meaningful insights</b><br>
+  I specialize in analytical thinking, structured problem-solving, and creating clear, impactful visualizations that support data-driven decisions.
+</p>
+
+<br>
+
+<p align="center">
+  
+  🔹 <b>Data Analysis & Visualization</b><br>
+  🔹 <b>Real-world Dataset Experience</b><br>
+  🔹 <b>Insight Generation & Storytelling</b><br>
+  🔹 <b>Continuous Learning & Skill Development</b>
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:99f2c8,100:1f4037&height=2"/>
 </p>
 
 ---
