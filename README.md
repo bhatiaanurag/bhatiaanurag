@@ -116,7 +116,11 @@ I specialize in analytical thinking, structured problem-solving, and building im
 
 ## <span style="color:#22C55E;">OBJECTIVE</span>
 
-<p align="center" style="color:#16A34A;">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,100:22C55E&height=3"/>
+</p>
+
+<p align="left" style="color:#16A34A;">
 To leverage strong analytical skills and data-driven thinking to solve complex business problems, identify meaningful patterns, and deliver actionable insights that enhance decision-making. I aim to contribute to organizational growth by transforming data into strategic value through effective analysis, visualization, and reporting.
 </p>
 
