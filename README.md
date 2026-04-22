@@ -1,6 +1,9 @@
 <h1 align="center">ANURAG BHATIA</h1>
 <h3 align="center">Data Analyst • Transforming Data into Actionable Insights</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
@@ -22,9 +25,8 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-Analytics-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 ### TECHNICAL STACK
@@ -38,9 +40,8 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
 * Excel
 * SQL
 * Power BI
-* Tableau
 
-**Core Competencies**
+**Core CompetENCIES**
 
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
@@ -68,18 +69,6 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
 * Solved real-world business problems using SQL
 * Created optimized queries for data extraction
 * Generated analytical reports for decision-making
-
----
-
-## GITHUB ANALYTICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=000000&text_color=333333" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
-</p>
 
 ---
 
