@@ -4,7 +4,7 @@
 </p>
 </h1>
 
-<h3 align="center" style="color:#16A34A;">
+<h3>
 Data Analyst • Transforming Data into Actionable Insights
 </h3>
 
