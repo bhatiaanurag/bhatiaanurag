@@ -14,7 +14,7 @@ Data Analyst • Transforming Data into Actionable Insights
 
 <h2 align="left" style="color:#22C55E;">ABOUT ME</h2>
 
-<p style="color:#16A34A;" align="center">
+<p style="color:#16A34A;" align="left">
 <b>Data Analyst focused on transforming raw data into meaningful insights</b><br>
 I specialize in analytical thinking, structured problem-solving, and building impactful visualizations that support data-driven decision-making.
 </p>
