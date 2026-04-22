@@ -9,6 +9,10 @@ Data Analyst • Transforming Data into Actionable Insights
   <img src="https://readme-typing-svg.herokuapp.com/?color=22C55E&lines=Data+Analysis;Business+Insights;Dashboard+Creation;Python+%7C+SQL+%7C+Excel&center=true&width=500&height=45">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=3"/>
+</p>
+
 ## <span style="color:#22C55E;">ABOUT ME</span>
 
 <p style="color:#16A34A;" align="center">
@@ -30,6 +34,10 @@ I specialize in analytical thinking, structured problem-solving, and building im
 
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=3"/>
+</p>
+
 ## <span style="color:#22C55E;">SKILLS & TECHNOLOGIES</span>
 
 <p align="center">
@@ -39,6 +47,10 @@ I specialize in analytical thinking, structured problem-solving, and building im
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Excel-166534?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-22C55E?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=3"/>
 </p>
 
 ## <span style="color:#22C55E;">TECHNICAL STACK</span>
@@ -91,10 +103,18 @@ I specialize in analytical thinking, structured problem-solving, and building im
   </tbody>
 </table>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=3"/>
+</p>
+
 ## <span style="color:#22C55E;">OBJECTIVE</span>
 
 <p align="left" style="color:#16A34A;">
 To leverage strong analytical skills and data-driven thinking to solve complex business problems, identify meaningful patterns, and deliver actionable insights that enhance decision-making. I aim to contribute to organizational growth by transforming data into strategic value through effective analysis, visualization, and reporting.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=3"/>
 </p>
 
 ## <span style="color:#22C55E;">CONTACT</span>
