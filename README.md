@@ -1,7 +1,6 @@
 <h1 align="center">ANURAG BHATIA</h1>
 <h3 align="center">Data Analyst • Transforming Data into Actionable Insights</h3>
 
-
 ---
 
 ## ABOUT ME
@@ -18,7 +17,8 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
 ## SKILLS & TECHNOLOGIES
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,git,vscode" /><br><br>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -38,34 +38,12 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
 * SQL
 * Power BI
 
-**Core CompetENCIES**
+**Core Competencies**
 
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
 * Data Visualization & Dashboarding
 * Business Insights & Reporting
-
----
-
-## PROJECTS
-
-### GOOGLE PLAY STORE ANALYSIS
-
-* Conducted in-depth exploratory data analysis
-* Identified key drivers of app ratings and installs
-* Provided insights on pricing and category performance
-
-### NETFLIX DATA ANALYSIS
-
-* Analyzed content trends and distribution
-* Explored genre patterns and release strategies
-* Built visual insights for better understanding
-
-### SQL BUSINESS CASE STUDIES
-
-* Solved real-world business problems using SQL
-* Created optimized queries for data extraction
-* Generated analytical reports for decision-making
 
 ---
 
