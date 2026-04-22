@@ -129,6 +129,10 @@ To leverage strong analytical skills and data-driven thinking to solve complex b
 ## <span style="color:#22C55E;">CONTACT</span>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,100:22C55E&height=3"/>
+</p>
+
+<p align="center">
   <a href="mailto:bhatiaanurag20@gmail.com">
     <img src="https://img.shields.io/badge/Email-166534?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
