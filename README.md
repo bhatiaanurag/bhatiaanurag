@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,100:22C55E&height=120&section=header"/>
+</p>
+
 <h1 align="center" style="color:#22C55E;">Anurag S Bhatia</h1>
 
 <h3 align="center">
