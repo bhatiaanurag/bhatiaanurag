@@ -16,19 +16,24 @@ Data Analyst • Transforming Data into Actionable Insights
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,100:22C55E&height=3"/>
 </p>
 
-<p align="center" style="color:#16A34A;">
+<p style="color:#16A34A;" align="center">
 <b>Data Analyst focused on transforming raw data into meaningful insights</b><br>
 I specialize in analytical thinking, structured problem-solving, and building impactful visualizations that support data-driven decision-making.
 </p>
 
 <br>
 
-<p align="center" style="color:#22C55E;">
-▸ Strong foundation in Data Analysis & Visualization<br>
-▸ Real-world Dataset Experience<br>
-▸ Insight Generation & Storytelling<br>
-▸ Continuous Learning & Skill Development
-</p>
+<div align="left" style="color:#22C55E; padding-left: 20px;">
+
+▸ Strong foundation in Data Analysis & Visualization  
+<br>
+▸ Real-world Dataset Experience  
+<br>
+▸ Insight Generation & Storytelling  
+<br>
+▸ Continuous Learning & Skill Development  
+
+</div>
 
 ---
 
