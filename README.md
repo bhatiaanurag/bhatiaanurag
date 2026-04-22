@@ -37,7 +37,14 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
 
 ## TECHNICAL STACK
 
-<table align="center" width="90%" style="border-collapse: collapse;">
+<table align="center" width="90%" style="border-collapse: collapse; table-layout: fixed;">
+  
+  <colgroup>
+    <col style="width: 33.33%">
+    <col style="width: 33.33%">
+    <col style="width: 33.33%">
+  </colgroup>
+
   <thead>
     <tr>
       <th align="center">LANGUAGES & LIBRARIES</th>
@@ -45,6 +52,7 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
       <th align="center">CORE SKILLS</th>
     </tr>
   </thead>
+
   <tbody>
     <tr>
       <td valign="top">
@@ -56,6 +64,7 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
 - Seaborn  
 
 </td>
+
       <td valign="top">
 
 - Excel  
@@ -63,6 +72,7 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
 - Power BI  
 
 </td>
+
       <td valign="top">
 
 - Data Cleaning  
@@ -74,6 +84,7 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
 </td>
     </tr>
   </tbody>
+
 </table>
 
 ---
