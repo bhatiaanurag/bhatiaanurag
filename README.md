@@ -1,4 +1,4 @@
-<h1 align="center">ANURAG S BHATIA</h1>
+<h1 align="center">Anurag S Bhatia</h1>
 <h3 align="center">Data Analyst • Transforming Data into Actionable Insights</h3>
 
 <p align="center">
