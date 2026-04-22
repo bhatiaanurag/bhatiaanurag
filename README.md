@@ -33,10 +33,6 @@ I specialize in analytical thinking, structured problem-solving, and building im
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=1"/>
-</p>
-
 <h2 align="left" style="color:#22C55E;">SKILLS & TECHNOLOGIES</h2>
 
 <p align="center">
@@ -46,10 +42,6 @@ I specialize in analytical thinking, structured problem-solving, and building im
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Excel-166534?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-22C55E?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=1"/>
 </p>
 
 <h2 align="left" style="color:#22C55E;">TECHNICAL STACK</h2>
@@ -101,10 +93,6 @@ I specialize in analytical thinking, structured problem-solving, and building im
     </tr>
   </tbody>
 </table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=1"/>
-</p>
 
 <h2 align="left" style="color:#22C55E;">OBJECTIVE</h2>
 
