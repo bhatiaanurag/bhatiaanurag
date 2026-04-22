@@ -9,13 +9,7 @@ Data Analyst • Transforming Data into Actionable Insights
   <img src="https://readme-typing-svg.herokuapp.com/?color=22C55E&lines=Data+Analysis;Business+Insights;Dashboard+Creation;Python+%7C+SQL+%7C+Excel&center=true&width=500&height=45">
 </p>
 
----
-
 ## <span style="color:#22C55E;">ABOUT ME</span>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,100:22C55E&height=3"/>
-</p>
 
 <p style="color:#16A34A;" align="center">
 <b>Data Analyst focused on transforming raw data into meaningful insights</b><br>
@@ -36,13 +30,7 @@ I specialize in analytical thinking, structured problem-solving, and building im
 
 </div>
 
----
-
 ## <span style="color:#22C55E;">SKILLS & TECHNOLOGIES</span>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,100:22C55E&height=3"/>
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode&theme=light" />
@@ -53,13 +41,7 @@ I specialize in analytical thinking, structured problem-solving, and building im
   <img src="https://img.shields.io/badge/Power%20BI-22C55E?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
----
-
 ## <span style="color:#22C55E;">TECHNICAL STACK</span>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,100:22C55E&height=3"/>
-</p>
 
 <table align="center" width="90%" style="table-layout: fixed;">
   <colgroup>
@@ -109,25 +91,13 @@ I specialize in analytical thinking, structured problem-solving, and building im
   </tbody>
 </table>
 
----
-
 ## <span style="color:#22C55E;">OBJECTIVE</span>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,100:22C55E&height=3"/>
-</p>
 
 <p align="left" style="color:#16A34A;">
 To leverage strong analytical skills and data-driven thinking to solve complex business problems, identify meaningful patterns, and deliver actionable insights that enhance decision-making. I aim to contribute to organizational growth by transforming data into strategic value through effective analysis, visualization, and reporting.
 </p>
 
----
-
 ## <span style="color:#22C55E;">CONTACT</span>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,100:22C55E&height=3"/>
-</p>
 
 <p align="center">
   <a href="mailto:bhatiaanurag20@gmail.com">
@@ -140,8 +110,6 @@ To leverage strong analytical skills and data-driven thinking to solve complex b
     <img src="https://img.shields.io/badge/GitHub-064E3B?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,100:22C55E&height=120&section=footer"/>
