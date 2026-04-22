@@ -12,10 +12,6 @@ Data Analyst • Transforming Data into Actionable Insights
   <img src="https://readme-typing-svg.herokuapp.com/?color=22C55E&lines=Data+Analysis;Business+Insights;Dashboard+Creation;Python+%7C+SQL+%7C+Excel&center=true&width=500&height=45">
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=1"/>
-</p>
-
 <h2 align="left" style="color:#22C55E;">ABOUT ME</h2>
 
 <p style="color:#16A34A;" align="left">
