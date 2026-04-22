@@ -44,6 +44,10 @@ I specialize in analytical thinking, structured problem-solving, and building im
 ## <span style="color:#22C55E;">SKILLS & TECHNOLOGIES</span>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,100:22C55E&height=3"/>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode&theme=light" />
 </p>
 
