@@ -37,39 +37,43 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
 
 ## TECHNICAL STACK
 
-<table align="center">
-<tr>
-<td align="center" width="300">
+<table align="center" width="90%" style="border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th align="center">LANGUAGES & LIBRARIES</th>
+      <th align="center">DATA TOOLS</th>
+      <th align="center">CORE SKILLS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
 
-### Languages & Libraries
-Python  
-Pandas  
-NumPy  
-Matplotlib  
-Seaborn  
-
-</td>
-
-<td align="center" width="300">
-
-### Data Tools
-Excel  
-SQL  
-Power BI  
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
 
 </td>
+      <td valign="top">
 
-<td align="center" width="300">
-
-### Core Skills
-Data Cleaning  
-EDA  
-Data Visualization  
-Dashboarding  
-Business Insights  
+- Excel  
+- SQL  
+- Power BI  
 
 </td>
-</tr>
+      <td valign="top">
+
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+- Dashboarding  
+- Business Insights  
+
+</td>
+    </tr>
+  </tbody>
 </table>
 
 ---
