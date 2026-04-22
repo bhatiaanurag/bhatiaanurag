@@ -1,49 +1,84 @@
 <h1 align="center">ANURAG BHATIA</h1>
 <h3 align="center">Data Analyst • Transforming Data into Actionable Insights</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analysis;Business+Insights;Dashboard+Creation;Python+%7C+SQL+%7C+Excel&center=true&width=500&height=45">
+</p>
+
 ---
 
 ## ABOUT ME
 
+<p align="center" width="80%">
 I am a Data Analyst passionate about converting raw data into meaningful insights that support strategic decision-making. I focus on analytical thinking, structured problem-solving, and delivering clear, impactful visualizations.
+</p>
 
-* Strong foundation in data analysis and visualization
-* Hands-on experience with real-world datasets
-* Focused on insight generation and storytelling
-* Continuously improving analytical and technical skills
+<p align="center">
+  ✔ Strong foundation in Data Analysis and Visualization <br>
+  ✔ Hands-on experience with real-world datasets <br>
+  ✔ Focused on Insight Generation and Storytelling <br>
+  ✔ Continuously improving analytical and technical skills
+</p>
 
 ---
 
 ## SKILLS & TECHNOLOGIES
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,git,vscode" /><br><br>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,git,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-### TECHNICAL STACK
+---
 
-**Languages & Libraries**
+## TECHNICAL STACK
 
-* Python (Pandas, NumPy, Matplotlib, Seaborn)
+<table align="center">
+<tr>
+<td align="center" width="300">
 
-**Data Tools**
+### Languages & Libraries
+Python  
+Pandas  
+NumPy  
+Matplotlib  
+Seaborn  
 
-* Excel
-* SQL
-* Power BI
+</td>
 
-**Core Competencies**
+<td align="center" width="300">
 
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis (EDA)
-* Data Visualization & Dashboarding
-* Business Insights & Reporting
+### Data Tools
+Excel  
+SQL  
+Power BI  
+
+</td>
+
+<td align="center" width="300">
+
+### Core Skills
+Data Cleaning  
+EDA  
+Data Visualization  
+Dashboarding  
+Business Insights  
+
+</td>
+</tr>
+</table>
+
+---
+
+## OBJECTIVE
+
+<p align="center" width="80%">
+To apply analytical expertise in solving complex business problems, uncover insights from data, and contribute to data-driven strategies in a professional environment.
+</p>
 
 ---
 
@@ -63,8 +98,6 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
 
 ---
 
-## OBJECTIVE
-
-To apply analytical expertise in solving complex business problems, uncover insights from data, and contribute to data-driven strategies in a professional environment.
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=120&section=footer"/>
+</p>
