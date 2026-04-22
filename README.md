@@ -1,30 +1,23 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=35&duration=3000&pause=1000&color=00C2A8&center=true&vCenter=true&width=600&lines=ANURAG+S+BHATIA;DATA+ANALYST" />
-</h1>
-
-<h3 align="center">Transforming Data into Actionable Insights</h3>
+<h1 align="center">ANURAG S BHATIA</h1>
+<h3 align="center">Data Analyst • Transforming Data into Actionable Insights</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analysis;Business+Insights;Dashboard+Creation;Python+%7C+SQL+%7C+Excel&center=true&width=500&height=45">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## ABOUT ME
 
-<p align="center">
-I am a Data Analyst passionate about converting raw data into meaningful insights that support strategic decision-making.
+<p align="center" width="80%">
+I am a Data Analyst passionate about converting raw data into meaningful insights that support strategic decision-making. I focus on analytical thinking, structured problem-solving, and delivering clear, impactful visualizations.
 </p>
 
 <p align="center">
-✔ Strong foundation in Data Analysis and Visualization <br>
-✔ Hands-on experience with real-world datasets <br>
-✔ Focused on Insight Generation and Storytelling <br>
-✔ Continuously improving analytical and technical skills
+  ✔ Strong foundation in Data Analysis and Visualization <br>
+  ✔ Hands-on experience with real-world datasets <br>
+  ✔ Focused on Insight Generation and Storytelling <br>
+  ✔ Continuously improving analytical and technical skills
 </p>
 
 ---
@@ -42,11 +35,7 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
 
 ---
 
-## TECH STACK
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header"/>
-</p>
+## TECHNICAL STACK
 
 <table align="center" width="90%" style="table-layout: fixed;">
   <colgroup>
@@ -55,14 +44,17 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
     <col width="33.33%">
   </colgroup>
 
-  <tr>
-    <th align="center">LANGUAGES & LIBRARIES</th>
-    <th align="center">DATA TOOLS</th>
-    <th align="center">CORE SKILLS</th>
-  </tr>
+  <thead>
+    <tr>
+      <th align="center">LANGUAGES & LIBRARIES</th>
+      <th align="center">DATA TOOLS</th>
+      <th align="center">CORE SKILLS</th>
+    </tr>
+  </thead>
 
-  <tr>
-    <td valign="top">
+  <tbody>
+    <tr>
+      <td valign="top" align="left">
 
 • Python  
 • Pandas  
@@ -72,7 +64,7 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
 
 </td>
 
-    <td valign="top">
+<td valign="top" align="left">
 
 • Excel  
 • SQL  
@@ -80,28 +72,25 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
 
 </td>
 
-    <td valign="top">
+<td valign="top" align="left">
 
 • Data Cleaning  
-• Exploratory Data Analysis  
+• Exploratory Data Analysis (EDA)  
 • Data Visualization  
 • Dashboarding  
 • Business Insights  
 
 </td>
-  </tr>
+    </tr>
+  </tbody>
 </table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=2&section=footer"/>
-</p>
 
 ---
 
 ## OBJECTIVE
 
-<p align="center">
-To apply analytical expertise in solving complex business problems and contribute to data-driven strategies.
+<p align="center" width="80%">
+To apply analytical expertise in solving complex business problems, uncover insights from data, and contribute to data-driven strategies in a professional environment.
 </p>
 
 ---
