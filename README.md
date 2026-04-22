@@ -1,62 +1,83 @@
 <h1 align="center">ANURAG BHATIA</h1>
-<h3 align="center">Data Analyst | Turning Data into Insights</h3>
+<h3 align="center">Data Analyst • Transforming Data into Actionable Insights</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## ABOUT ME
 
-I am a passionate Data Analyst focused on transforming raw data into meaningful insights that drive business decisions. I enjoy working with data, uncovering patterns, and presenting results in a clear and impactful way.
+I am a Data Analyst passionate about converting raw data into meaningful insights that support strategic decision-making. I focus on analytical thinking, structured problem-solving, and delivering clear, impactful visualizations.
 
-- Strong foundation in Data Analysis and Visualization  
-- Skilled in Python, SQL, Excel, and BI tools  
-- Focused on real-world problem solving through data  
-- Continuously learning and improving analytical skills  
+* Strong foundation in data analysis and visualization
+* Hands-on experience with real-world datasets
+* Focused on insight generation and storytelling
+* Continuously improving analytical and technical skills
 
 ---
 
-## SKILLS & TOOLS
+## SKILLS & TECHNOLOGIES
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=excel,python,mysql,github" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,git,vscode" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-Analytics-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+### TECHNICAL STACK
+
 **Languages & Libraries**
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 **Data Tools**
-- Excel  
-- SQL  
-- Power BI / Tableau  
 
-**Other Skills**
-- Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization  
-- Business Insights Generation  
+* Excel
+* SQL
+* Power BI
+* Tableau
+
+**Core Competencies**
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization & Dashboarding
+* Business Insights & Reporting
 
 ---
 
 ## PROJECTS
 
-### Google Play Store EDA
-- Performed detailed analysis on app data
-- Identified trends in ratings, installs, and pricing
-- Generated business insights for app performance
+### GOOGLE PLAY STORE ANALYSIS
 
-### Netflix Data Analysis
-- Analyzed content distribution and trends
-- Explored genre popularity and release patterns
+* Conducted in-depth exploratory data analysis
+* Identified key drivers of app ratings and installs
+* Provided insights on pricing and category performance
 
-### SQL Case Study Projects
-- Solved real-world business problems using SQL
-- Built optimized queries for data extraction and reporting
+### NETFLIX DATA ANALYSIS
+
+* Analyzed content trends and distribution
+* Explored genre patterns and release strategies
+* Built visual insights for better understanding
+
+### SQL BUSINESS CASE STUDIES
+
+* Solved real-world business problems using SQL
+* Created optimized queries for data extraction
+* Generated analytical reports for decision-making
 
 ---
 
-## GITHUB STATS
+## GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=000000&text_color=333333" />
 </p>
 
 <p align="center">
@@ -67,14 +88,22 @@ I am a passionate Data Analyst focused on transforming raw data into meaningful 
 
 ## CONTACT
 
-- Email: bhatiaanurag20@gmail.com  
-- LinkedIn: https://linkedin.com/in/anuragbhatia05  
-- GitHub: https://github.com/bhatiaanurag  
+<p align="center">
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## OBJECTIVE
 
-To leverage data analytics skills to solve complex problems, create meaningful insights, and contribute to data-driven decision-making in organizations.
+To apply analytical expertise in solving complex business problems, uncover insights from data, and contribute to data-driven strategies in a professional environment.
 
 ---
