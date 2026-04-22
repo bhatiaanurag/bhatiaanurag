@@ -17,7 +17,7 @@ I am a passionate Data Analyst focused on transforming raw data into meaningful 
 ## SKILLS & TOOLS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github" />
+  <img src="https://skillicons.dev/icons?i=excel,python,mysql,github" />
 </p>
 
 **Languages & Libraries**
