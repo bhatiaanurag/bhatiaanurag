@@ -37,12 +37,11 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
 
 ## TECHNICAL STACK
 
-<table align="center" width="90%" style="border-collapse: collapse; table-layout: fixed;">
-  
+<table align="center" width="90%" style="table-layout: fixed;">
   <colgroup>
-    <col style="width: 33.33%">
-    <col style="width: 33.33%">
-    <col style="width: 33.33%">
+    <col width="33.33%">
+    <col width="33.33%">
+    <col width="33.33%">
   </colgroup>
 
   <thead>
@@ -55,36 +54,35 @@ I am a Data Analyst passionate about converting raw data into meaningful insight
 
   <tbody>
     <tr>
-      <td valign="top">
+      <td valign="top" align="left">
 
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-
-</td>
-
-      <td valign="top">
-
-- Excel  
-- SQL  
-- Power BI  
+• Python  
+• Pandas  
+• NumPy  
+• Matplotlib  
+• Seaborn  
 
 </td>
 
-      <td valign="top">
+<td valign="top" align="left">
 
-- Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization  
-- Dashboarding  
-- Business Insights  
+• Excel  
+• SQL  
+• Power BI  
+
+</td>
+
+<td valign="top" align="left">
+
+• Data Cleaning  
+• Exploratory Data Analysis (EDA)  
+• Data Visualization  
+• Dashboarding  
+• Business Insights  
 
 </td>
     </tr>
   </tbody>
-
 </table>
 
 ---
