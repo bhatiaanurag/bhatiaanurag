@@ -12,7 +12,7 @@ Data Analyst • Transforming Data into Actionable Insights
   <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=1"/>
 </p>
 
-<h2 align="center" style="color:#22C55E;">ABOUT ME</h2>
+<h2 align="left" style="color:#22C55E;">ABOUT ME</h2>
 
 <p style="color:#16A34A;" align="center">
 <b>Data Analyst focused on transforming raw data into meaningful insights</b><br>
@@ -37,7 +37,7 @@ I specialize in analytical thinking, structured problem-solving, and building im
   <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=1"/>
 </p>
 
-<h2 align="center" style="color:#22C55E;">SKILLS & TECHNOLOGIES</h2>
+<h2 align="left" style="color:#22C55E;">SKILLS & TECHNOLOGIES</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode&theme=light" />
@@ -52,7 +52,7 @@ I specialize in analytical thinking, structured problem-solving, and building im
   <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=1"/>
 </p>
 
-<h2 align="center" style="color:#22C55E;">TECHNICAL STACK</h2>
+<h2 align="left" style="color:#22C55E;">TECHNICAL STACK</h2>
 
 <table align="center" width="90%" style="table-layout: fixed;">
   <colgroup>
@@ -106,7 +106,7 @@ I specialize in analytical thinking, structured problem-solving, and building im
   <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=1"/>
 </p>
 
-<h2 align="center" style="color:#22C55E;">OBJECTIVE</h2>
+<h2 align="left" style="color:#22C55E;">OBJECTIVE</h2>
 
 <p align="left" style="color:#16A34A;">
 To leverage strong analytical skills and data-driven thinking to solve complex business problems, identify meaningful patterns, and deliver actionable insights that enhance decision-making. I aim to contribute to organizational growth by transforming data into strategic value through effective analysis, visualization, and reporting.
@@ -116,7 +116,7 @@ To leverage strong analytical skills and data-driven thinking to solve complex b
   <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=1"/>
 </p>
 
-<h2 align="center" style="color:#22C55E;">CONTACT</h2>
+<h2 align="left" style="color:#22C55E;">CONTACT</h2>
 
 <p align="center">
   <a href="mailto:bhatiaanurag20@gmail.com">
