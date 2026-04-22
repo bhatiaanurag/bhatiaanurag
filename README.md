@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#22C55E;">ANURAG S BHATIA</h1>
+<h1 align="center" style="color:#22C55E;">Anurag S Bhatia</h1>
 
 <h3 align="center" style="color:#16A34A;">
 Data Analyst • Transforming Data into Actionable Insights
