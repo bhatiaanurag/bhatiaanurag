@@ -1,74 +1,69 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:E50914&height=140&section=header&text=NETFLIX%20STYLE&fontColor=ffffff&fontSize=35&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,100:22C55E&height=120&section=header"/>
 </p>
 
-<h1 align="center" style="color:#E50914; font-size:45px;">
-  ANURAG S BHATIA
-</h1>
+<h1 align="center" style="color:#22C55E;">Anurag S Bhatia</h1>
 
-<h3 align="center" style="color:#ffffff;">
-Data Analyst • Turning Raw Data into Streaming-Level Insights
+<h3 align="center">
+Data Analyst • Transforming Data into Actionable Insights
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=E50914&lines=Data+Analysis;Business+Intelligence;Dashboard+Development;Python+%7C+SQL+%7C+Power+BI&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=22C55E&lines=Data+Analysis;Business+Insights;Dashboard+Creation;Python+%7C+SQL+%7C+Excel&center=true&width=500&height=45">
 </p>
 
----
+<h2 align="left" style="color:#22C55E;">ABOUT ME</h2>
 
-<h2 align="left" style="color:#E50914;">🎬 ABOUT ME</h2>
-
-<p align="left" style="color:#CFCFCF;">
-<b>Data Analyst passionate about uncovering stories hidden inside data.</b><br><br>
-I specialize in transforming complex datasets into clear, actionable insights using analytical thinking, visualization, and business intelligence techniques. My focus is on creating impactful dashboards and solving real-world business problems through data-driven strategies.
+<p style="color:#16A34A;" align="left">
+<b>Data Analyst focused on transforming raw data into meaningful insights</b><br>
+I specialize in analytical thinking, structured problem-solving, and building impactful visualizations that support data-driven decision-making.
 </p>
 
 <br>
 
-<div align="left" style="color:#E5E5E5; padding-left:20px;">
+<div align="left" style="color:#22C55E; padding-left: 20px;">
 
-▸ Strong expertise in Data Analysis & Visualization  
+▸ Strong foundation in Data Analysis & Visualization  
 <br>
-▸ Real-world Dataset & Business Case Experience  
+▸ Real-world Dataset Experience  
 <br>
-▸ Insightful Storytelling through Dashboards  
+▸ Insight Generation & Storytelling  
 <br>
-▸ Continuous Learning & Technical Growth  
+▸ Continuous Learning & Skill Development  
 
 </div>
 
----
-
-<h2 align="left" style="color:#E50914;">🍿 SKILLS & TECHNOLOGIES</h2>
+<h2 align="left" style="color:#22C55E;">SKILLS & TECHNOLOGIES</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode&theme=light" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-111111?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Power%20BI-E50914?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-166534?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-22C55E?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
----
+<h2 align="left" style="color:#22C55E;">TECHNICAL STACK</h2>
 
-<h2 align="left" style="color:#E50914;">📺 TECHNICAL STACK</h2>
+<table align="center" width="90%" style="table-layout: fixed;">
+  <colgroup>
+    <col width="33.33%">
+    <col width="33.33%">
+    <col width="33.33%">
+  </colgroup>
 
-<table align="center" width="95%" style="background-color:#111111; border-radius:10px;">
+  <thead>
+    <tr style="color:#22C55E;">
+      <th align="center">LANGUAGES & LIBRARIES</th>
+      <th align="center">DATA TOOLS</th>
+      <th align="center">CORE SKILLS</th>
+    </tr>
+  </thead>
 
-<thead>
-<tr style="color:#E50914;">
-<th align="center">LANGUAGES & LIBRARIES</th>
-<th align="center">DATA TOOLS</th>
-<th align="center">CORE SKILLS</th>
-</tr>
-</thead>
-
-<tbody style="color:#F5F5F5;">
-<tr>
-
-<td valign="top">
+  <tbody style="color:#16A34A;">
+    <tr>
+      <td valign="top">
 
 • Python  
 • Pandas  
@@ -91,45 +86,34 @@ I specialize in transforming complex datasets into clear, actionable insights us
 • Data Cleaning  
 • Exploratory Data Analysis  
 • Data Visualization  
-• Dashboard Creation  
+• Dashboarding  
 • Business Insights  
 
 </td>
-
-</tr>
-</tbody>
+    </tr>
+  </tbody>
 </table>
 
----
+<h2 align="left" style="color:#22C55E;">OBJECTIVE</h2>
 
-<h2 align="left" style="color:#E50914;">🎯 OBJECTIVE</h2>
-
-<p align="left" style="color:#D6D6D6;">
-To leverage analytical thinking and data-driven methodologies to solve complex business challenges, uncover meaningful trends, and deliver impactful insights that support strategic decision-making. My goal is to transform raw data into valuable business intelligence through effective analysis, visualization, and storytelling.
+<p align="left" style="color:#16A34A;">
+To leverage strong analytical skills and data-driven thinking to solve complex business problems, identify meaningful patterns, and deliver actionable insights that enhance decision-making. I aim to contribute to organizational growth by transforming data into strategic value through effective analysis, visualization, and reporting.
 </p>
 
----
-
-<h2 align="left" style="color:#E50914;">📬 CONTACT</h2>
+<h2 align="left" style="color:#22C55E;">CONTACT</h2>
 
 <p align="center">
-
   <a href="mailto:bhatiaanurag20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-E50914?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-166534?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://linkedin.com/in/anuragbhatia05">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-
   <a href="https://github.com/bhatiaanurag">
-    <img src="https://img.shields.io/badge/GitHub-E50914?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-064E3B?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:000000&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,100:22C55E&height=120&section=footer"/>
 </p>
